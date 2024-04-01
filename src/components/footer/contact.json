@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_footer_contacts",
+  "info": {
+    "displayName": "Contact",
+    "icon": "user",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string",
+      "required": true
+    },
+    "position": {
+      "type": "string",
+      "required": true
+    },
+    "email": {
+      "type": "email",
+      "required": true
+    }
+  }
+}

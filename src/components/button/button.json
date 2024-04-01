@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_button_buttons",
+  "info": {
+    "displayName": "Button",
+    "icon": "search",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "link": {
+      "type": "string",
+      "required": true
+    }
+  }
+}
